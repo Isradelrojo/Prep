@@ -1,0 +1,32 @@
+h1 {
+    color: gold;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 400px;
+    background-color: lightskyblue;
+    padding: 50px;
+    border: 2px groove black;
+}
+
+#spanId {
+    font-size: 25px;
+    margin: 50px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    background-image: url("https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+
+div {
+    padding: 50px;
+    margin: 0 auto;
+}

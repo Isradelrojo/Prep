@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+div {
+    padding: 10px;
+}
+img {
+    width: 150px;
+}
+p {
+    text-align: justify;
+    margin: auto;
+}
+body {
+    background-color: lightsteelblue;
+}
